@@ -9,8 +9,8 @@
 
 ## 👋 Hi, my name is José Enrique
 
-✨ Desarrollador apasionado por la tecnología, el código limpio y la creación de proyectos con impacto.  
-💡 Me gusta aprender nuevas tecnologías, compartir conocimiento y colaborar en proyectos open-source.  
+✨ Aspiring developer passionate about learning new technologies, writing clean code, and building meaningful projects.  
+💡 Currently focused on web development, constantly exploring new tools and frameworks, sharing knowledge, and aiming to contribute to open-source projects in the near future.
 
 ---
 
@@ -50,35 +50,14 @@
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## 🌱 Currently learning
 
-- 🔹 TypeScript  
-- 🔹 Next.js  
-- 🔹 DevOps y CI/CD  
-
----
-
-## 📂 Proyectos Destacados
-
-- 🚀 [Proyecto 1](https://github.com/TU_USUARIO/proyecto1) — Descripción corta.  
-- 🎮 [Proyecto 2](https://github.com/TU_USUARIO/proyecto2) — Descripción corta.  
-- 📱 [Proyecto 3](https://github.com/TU_USUARIO/proyecto3) — Descripción corta.  
+- 🔹 Php 
+- 🔹 Python  
+- 🔹 Spring Boot 
 
 ---
 
-## 📫 Conecta conmigo
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TU_USUARIO)  
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-000000?style=for-the-badge)](https://tusitio.com)
-
-</div>
-
----
-
-<div align="center">
 
 ✨ Gracias por visitar mi perfil ✨  
 ⭐ No olvides dejar una estrella en mis proyectos si te gustan ⭐  
