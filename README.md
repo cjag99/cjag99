@@ -42,7 +42,8 @@
 
 <div align="center">
 
-![GitHub Stats](stats.svg)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cjag99&show_icons=true&theme=onedark)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjag99&layout=compact&theme=onedark)
 
 </div>
