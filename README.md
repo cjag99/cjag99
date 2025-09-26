@@ -56,10 +56,14 @@
 
 ---
 
+✨ Thanks for visiting! Looking forward to learning and building more projects. ✨
 
-✨ Gracias por visitar mi perfil ✨  
-⭐ No olvides dejar una estrella en mis proyectos si te gustan ⭐  
+
+<div align="center">
+          <img src=https://media1.tenor.com/m/hs6IuO3pDh8AAAAC/pixel-art.gif">
+</div>
+
+<div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&color=gradient&height=100)
-
 </div>
