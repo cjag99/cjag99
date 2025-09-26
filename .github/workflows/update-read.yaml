@@ -26,7 +26,7 @@ jobs:
       # 4️⃣ Ejecutar script para generar stats
       - name: Generate stats SVG
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.PAT_1}}
         run: node generate-stats.js
 
       # 5️⃣ Commit y push de stats.svg
