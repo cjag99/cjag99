@@ -12,6 +12,9 @@ jobs:
       # 1️⃣ Clonar tu repositorio
       - name: Checkout repo
         uses: actions/checkout@v3
+        with:
+          persist-credentials: false  # para usar un token personalizado
+          token: ${{ secrets.PAT_1 }}  # Personal Access Token con permisos de repo
 
       # 2️⃣ Instalar Node.js
       - name: Setup Node.js
