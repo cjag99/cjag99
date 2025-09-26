@@ -16,7 +16,7 @@ jobs:
         env:
           PAT_1: ${{ secrets.PAT_1 }}
         run: |
-          curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=cjag99&show_icons=true&theme=onedark&count_private=true&token=$GH_TOKEN"
+          curl -o stats.svg "https://github-readme-stats.vercel.app/api?username=cjag99&show_icons=true&theme=onedark&count_private=true&token=$PAT_1"
 
       - name: Commit stats
         run: |
