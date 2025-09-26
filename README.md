@@ -40,13 +40,11 @@
 
 ## 📊 My Github Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cjag99&show_icons=true&theme=onedark" width="350" hspace="40"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjag99&layout=compact&theme=onedark" width="250"/>
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cjag99&show_icons=true&theme=onedark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cjag99&layout=compact&theme=onedark)
-
-</div>
 
 ---
 
