@@ -2,19 +2,19 @@ name: Update GitHub Stats
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # cada día a medianoche
+    - cron: '0 0 * * *'  # corre todos los días a medianoche
   workflow_dispatch:      # permite ejecutar manualmente
 
 jobs:
   generate-stats:
     runs-on: ubuntu-latest
+
     steps:
-      # 1️⃣ Clonar tu repositorio
+      # 1️⃣ Clonar el repositorio
       - name: Checkout repo
         uses: actions/checkout@v3
         with:
-          persist-credentials: false  # para usar un token personalizado
-          token: ${{ secrets.PAT_1 }}  # Personal Access Token con permisos de repo
+          token: ${{ secrets.PAT_1 }}   # tu token con permisos repo y read:user
 
       # 2️⃣ Instalar Node.js
       - name: Setup Node.js
@@ -22,21 +22,33 @@ jobs:
         with:
           node-version: '18'
 
-      # 3️⃣ Instalar dependencias (axios)
+      # 3️⃣ Instalar dependencias necesarias
       - name: Install dependencies
         run: npm install axios
 
-      # 4️⃣ Ejecutar script para generar stats
-      - name: Generate stats SVG
+      # 4️⃣ Ejecutar script para generar stats.svg
+      - name: Generate GitHub Stats
         env:
-          GH_TOKEN: ${{ secrets.PAT_1}}
+          GH_TOKEN: ${{ secrets.PAT_1 }}
         run: node generate-stats.js
 
-      # 5️⃣ Commit y push de stats.svg
-      - name: Commit stats
+      # 5️⃣ Commit y push usando GitHub CLI (autenticación segura)
+      - name: Commit and push stats
+        env:
+          GH_TOKEN: ${{ secrets.PAT_1 }}
         run: |
+          # Instalar GitHub CLI
+          sudo apt-get update
+          sudo apt-get install gh -y
+
+          # Autenticarse en GH CLI con el token
+          echo "$GH_TOKEN" | gh auth login --with-token
+
+          # Configurar usuario de Git
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Commit y push
           git add stats.svg
           git commit -m "Update GitHub Stats" || echo "No changes to commit"
           git push
