@@ -42,7 +42,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cjag99&show_icons=true&theme=onedark" width="350" hspace="40"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjag99&layout=compact&theme=onedark" width="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjag99&layout=compact&theme=onedark&count=10" width="250"/>
 </p>
 
 
