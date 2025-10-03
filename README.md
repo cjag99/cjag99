@@ -40,11 +40,9 @@
 
 ## 📊 My Github Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cjag99&show_icons=true&theme=onedark" width="350" hspace="40"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cjag99&layout=compact&theme=onedark&count=10" width="250"/>
-</p>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=cjag99&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cjag99&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cjag99&theme=vision_friendly_dark)
 
 ---
 
