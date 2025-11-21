@@ -9,8 +9,13 @@
 
 ## 👋 Hi, my name is José Enrique
 
-✨ Aspiring developer passionate about learning new technologies, writing clean code, and building meaningful projects.  
-💡 Currently focused on web development, constantly exploring new tools and frameworks, sharing knowledge, and aiming to contribute to open-source projects in the near future.
+
+✨ Aspiring developer passionate about:  
+- Learning new technologies  
+- Writing clean, maintainable code  
+- Building meaningful projects  
+
+💡 Currently focused on **web development**, exploring new tools and frameworks, and contributing to open-source projects.
 
 ---
 
@@ -51,6 +56,23 @@
 - 🔹 Php 
 - 🔹 Python  
 - 🔹 Spring Boot 
+
+---
+
+## 📫 Connect with Me
+
+
+
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/josé-enrique-aguilar-ramos-745999166" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/cjag99" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
+
 
 ---
 
