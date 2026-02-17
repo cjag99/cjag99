@@ -37,9 +37,24 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="java" width="45" height="45" hspace="5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="45" height="45" hspace="5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="45" height="45" hspace="5"/>
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="wordpress" width="45" height="45" hspace="5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" alt="wordpress" width="45" height="45" hspace="5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="wordpress" width="45" height="45" hspace="5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="wordpress" width="45" height="45" hspace="5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="wordpress" width="45" height="45" hspace="5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" alt="wordpress" width="45" height="45" hspace="5"/>
+              
           
 </div>
+
+---
+
+## 🧠 Soft Skills
+- Problem-solving
+- Analytical thinking
+- Teamwork
+- Continuous learning
+- Adaptability
 
 ---
 
@@ -53,8 +68,8 @@
 
 ## 🌱 Currently learning
 
-- 🔹 Php 
-- 🔹 Python  
+- 🔹 React 
+- 🔹 Astro  
 - 🔹 Spring Boot 
 
 ---
