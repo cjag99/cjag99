@@ -1,7 +1,7 @@
 <!-- Encabezado con animación -->
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?text=Hey%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=120)
+![header](https://capsule-render.vercel.app/api?text=Full%20Stack%20Developer🕹️&animation=fadeIn&type=waving&color=gradient&height=120)
 
 </div>
 
